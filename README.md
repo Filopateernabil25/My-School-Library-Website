@@ -1,5 +1,4 @@
 # 📚 My School Library Website  
-Simple PHP Project
 
 ## Overview
 
